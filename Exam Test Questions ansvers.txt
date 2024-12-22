@@ -1,0 +1,79 @@
+Question 1
+You are developing a Power BI report. Which of the following options allows you to model relationships between tables?
+
+A. Query Editor
+B. DAX Editor
+C. Model View +++++++
+D. Report View
+
+Question 2
+Which of the following functions can be used in DAX to create a calculated column that combines two text columns?
+
+A. UNION
+B. CROSSJOIN
+C. CONCATENATE +++++++
+D. BLANK
+
+Question 3
+You need to merge data from two tables in Power BI. Which tool should you use?
+
+A. DAX Editor
+B. Model View
+C. Power Query ++++++++++
+D. Report View
+
+Question 4
+In Power BI, what does the "Hierarchy" feature allow you to do?
+
+A. Apply row-level security
+B. Filter data using custom fields
+C. Organize data fields into parent-child relationships ++++++++
+D. Create new relationships between tables
+
+Question 5
+In Power BI, what does the "Get Data" feature enable you to do?
+
+A. Connect to data sources and import data  ++++++++++
+B. Merge multiple datasets into a single table
+C. Create relationships between tables
+D. Schedule refreshes for datasets
+
+Question 6
+Which DAX function would you use to filter a table and return only specific rows?
+
+A. SUMMARIZE
+B. FILTER +++++++++++
+C. RELATED
+D. COUNTROWS
+
+Question 7
+Which DAX function would you use to calculate the cumulative total of a measure over time?
+
+A. SUMX
+B. DISTINCT
+C. TOTALYTD ++++++++++++++
+D. CALCULATE  
+
+Question 8
+You need to display a measure’s aggregated value in the context of a matrix visualization. What would you typically use?
+
+A. Measures +++++++++
+B. Calculated Columns
+C. Conditional Formatting
+D. Row-level security
+
+Question 9
+What is the default storage mode for a new dataset in Power BI?
+
+A. DirectQuery
+B. Dual
+C. Import +++++++
+D. Composite
+
+Question 10
+What is the purpose of relationships in Power BI’s data model?
+
+A. To store large datasets efficiently
+B. To connect tables so you can analyze them together  ++++++++
+C. To apply row-level security rules
+D. To create calculated columns
